@@ -1,0 +1,52 @@
+html {
+	background-color: #DCE6E3; 
+}
+
+h1 {
+	font-family: Lobster; 
+  font-size: 75px; 
+  text-align: center; 
+}
+
+hr {
+  margin: 30px; 
+  height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-12.png) repeat-x 0 0;
+  border: 0;
+}
+
+.text {
+  text-align: center; 
+  padding: 50px; 
+  font-family: Farsan; 
+  font-size: 30px;
+}
+
+#pictures{
+  margin: auto; 
+  padding: 30px; 
+}
+
+#macaroons {
+  height: 250px; 
+}
+
+#asparagus {
+  height: 250px;
+}
+
+#sheep {
+  height: 250px; 
+}
+
+#leaves {
+  height: 250px; 
+}
+
+#bulbs {
+  height: 250px; 
+}
+
+#bird {
+  height: 250px 
+}

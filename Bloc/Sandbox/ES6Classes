@@ -49,3 +49,10 @@ class Shirt extends Clothes {
 
 var blouse = new Shirt('blouse', 'small', 25);
 blouse.info();
+
+``````Slack help version: ``````
+class Shirt extends Clothes{
+  constructor(name, size, price){
+  super(name, size, price);
+  }
+}
